@@ -1,0 +1,6 @@
+[submodule "Back-End"]
+	path = Back-End
+	url = https://github.com/Cooper-Zhong/CS309-OOAD-Dorm-Selection.git
+[submodule "Front-End"]
+	path = Front-End
+	url = https://github.com/ZackyYoung/ooad_front_end.git
